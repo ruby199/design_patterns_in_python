@@ -1,5 +1,5 @@
 """
-# DIP: Dependency Inversion Principle(DIP_ is one of the five fundamental SOLID principles of oop with two main principle:
+# DIP: Dependency Inversion Principle(DIP) is one of the five fundamental SOLID principles of oop with two main principle:
 
 1. High-Level modules should not depend on low-level models
 - Both should depend on abstractions. The core functionality of your application shouldn't depend on the details but rather on interfaces or abstract classes. For instance, if you are writing a reporting system, the main logic of the system should not depend directly on a specific database or data source. 
