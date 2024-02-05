@@ -1,6 +1,10 @@
 """
 [DEF] Facade Design pattern:
-Provides a simplified interface to a complex system of classesm a library or a framework. 
+- Build a Facade to provide a simplified API over a set of classes
+- May wish to (optionally) expose internals through the facade
+- May allow users to 'escalate' to use more complex APIs if they need to.
+
+Provides a simplified interface to a complex system of classes a library or a framework. 
 Used to hide the complexities of the system and provide a cleaner, simplified, and more understandable interface to the clients.
 
 
